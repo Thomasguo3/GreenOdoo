@@ -1,3 +1,0 @@
-[submodule "extra_addons"]
-	path = extra_addons
-	url = https://github.com/micktseng/truney_odoo10_addons.git
