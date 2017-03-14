@@ -1,0 +1,6 @@
+data/filestore/
+*.pyc
+data/sessions/
+runtime/pgsql/data/
+.idea/
+.vs/
