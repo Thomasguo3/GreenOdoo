@@ -4,3 +4,4 @@ data/sessions/
 runtime/pgsql/data/
 .idea/
 .vs/
+start_for_pycharm.bat
